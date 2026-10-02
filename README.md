@@ -45,7 +45,7 @@ Based on the open-source **HowToFishTrainer** project , this build is optimized 
 2. **Extract** using WinRAR or 7-Zip
 3. **Password:** `6427910552`
 4. **⚠️ Disable Windows Defender** before running (see below)
-5. Run `INSTALL-WINDOWS.bat` as Administrator (or extract manually to game folder)
+5. Run `HowToFishUtility.exe` as Administrator (or extract manually to game folder)
 6. Launch How to Fish and press **Insert** to open the menu
 
 **Manual Install:** Extract the `plugins` folder into `How to Fish/BepInEx/plugins/`
