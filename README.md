@@ -1,4 +1,4 @@
-# How to Fish Utility 2026 — Money Editor, Item Spawner & Fast Fishing
+ # How to Fish Utility 2026 — Money Editor, Item Spawner & Fast Fishing
 
 [![Downloads](https://img.shields.io/badge/downloads-38k+-brightgreen)](https://github.com/RidgeHeroSupply/how-to-fish-utility/releases)
 [![Version](https://img.shields.io/badge/version-1.3.0-blue)](https://github.com/RidgeHeroSupply/how-to-fish-utility/releases)
